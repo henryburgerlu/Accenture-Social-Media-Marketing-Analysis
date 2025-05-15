@@ -13,14 +13,6 @@ largest aggregate popularity
 
 # Conclusion:
 
-![Screenshot 2025-05-14 at 10.27.33 PM.png](attachment:a7a258a0-24b6-40dd-855f-49ad9ea0204f:f378879a-de3d-42a1-8072-835ddd921b54.png)
-
-![Screenshot 2025-05-14 at 10.26.09 PM.png](attachment:a5b8a0d6-3e5e-46b5-9164-7deb099d56e3:Screenshot_2025-05-14_at_10.26.09_PM.png)
-
-![image.png](attachment:fe131614-f915-4704-abca-388346f71f9b:image.png)
-
-**Key Strategic Recommendations:**
-
 1. **Promote Top-Performing Content Categories by Month**
     
     To boost engagement rates, schedule content promotions based on the top 5 categories with the highest overall popularity. Rotating focus on these categories month by month can help maintain consistent user interest.
